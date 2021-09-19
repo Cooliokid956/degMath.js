@@ -6,7 +6,7 @@ Anyone here that isn't used to radians? Yea me too
 **Example:**
 ```js
 /* d.Math(oprt,deg) */
-d.Math(sin,90)
+d.Math("sin",90)
 // Result: 1
 ```
 First parameter is the operation you want to use with degrees, such as sin, cos and tan (any anything else that runs on radians.)
